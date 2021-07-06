@@ -1,4 +1,5 @@
 # test1
+LogRocket integration with Vue and Vuex
 
 ## Project setup
 ```
